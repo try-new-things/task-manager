@@ -28,5 +28,3 @@ const start = async () => {
 }
 
 start();
-
-// https://www.youtube.com/watch?v=rltfdjcXjmk&t=2524s ==> 2:27:06
